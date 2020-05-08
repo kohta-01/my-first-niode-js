@@ -1,0 +1,118 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1588731575,,"wq"
+:WQ
+|2,0,1588731570,,"WQ"
+:q
+|2,0,1588592103,,"q"
+:w
+|2,0,1588592079,,"w"
+:9
+|2,0,1588591986,,"9"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+"-	CHAR	0
+	た
+|3,0,36,0,1,0,1588592668,"た"
+
+# ファイルマーク:
+'0  1  0  ~/workspace/tmp/my-first.sh
+|4,48,1,0,1588731575,"~/workspace/tmp/my-first.sh"
+'1  210  0  /tmp/tutorSA3lUq
+|4,49,210,0,1588683042,"/tmp/tutorSA3lUq"
+'2  192  0  /tmp/tutorX11gqt
+|4,50,192,0,1588597971,"/tmp/tutorX11gqt"
+'3  1  0  ~/workspace/vim-study/test.txt
+|4,51,1,0,1588592103,"~/workspace/vim-study/test.txt"
+'4  9  0  ~/.profile
+|4,52,9,0,1588592007,"~/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/workspace/tmp/my-first.sh
+|4,39,1,0,1588731575,"~/workspace/tmp/my-first.sh"
+-'  210  0  /tmp/tutorSA3lUq
+|4,39,210,0,1588683042,"/tmp/tutorSA3lUq"
+-'  210  0  /tmp/tutorSA3lUq
+|4,39,210,0,1588683042,"/tmp/tutorSA3lUq"
+-'  1  0  /tmp/tutorSA3lUq
+|4,39,1,0,1588682997,"/tmp/tutorSA3lUq"
+-'  1  0  /tmp/tutorSA3lUq
+|4,39,1,0,1588682997,"/tmp/tutorSA3lUq"
+-'  192  0  /tmp/tutorX11gqt
+|4,39,192,0,1588597971,"/tmp/tutorX11gqt"
+-'  192  0  /tmp/tutorX11gqt
+|4,39,192,0,1588597971,"/tmp/tutorX11gqt"
+-'  1  0  /tmp/tutorX11gqt
+|4,39,1,0,1588592273,"/tmp/tutorX11gqt"
+-'  1  0  /tmp/tutorX11gqt
+|4,39,1,0,1588592273,"/tmp/tutorX11gqt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1588592103,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1588592103,"~/workspace/vim-study/test.txt"
+-'  9  0  ~/.profile
+|4,39,9,0,1588592007,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1588592007,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1588592007,"~/.profile"
+-'  9  0  ~/.profile
+|4,39,9,0,1588592007,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1588591877,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1588591877,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1588591877,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1588591877,"~/.profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/tmp/my-first.sh
+	*	1588731573	0
+	"	1	0
+
+> /tmp/tutorSA3lUq
+	*	1588683024	0
+	"	210	0
+
+> /tmp/tutorX11gqt
+	*	1588593398	0
+	"	192	0
+	^	132	59
+	.	132	59
+	+	83	58
+	+	108	14
+	+	109	42
+	+	132	53
+	+	134	56
+	+	132	59
+
+> ~/workspace/vim-study/test.txt
+	*	1588592098	0
+	"	1	0
+
+> ~/.profile
+	*	1588591995	0
+	"	9	0
